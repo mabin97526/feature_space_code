@@ -1,6 +1,6 @@
 # feature_space_code
 This project includes shared feature semantic space algorithms for sim-to-real transfer.It mainly contains five modules, including:feature space in unity, feature space in ros space, feature space deploy package, scene semantic map module and feature space based RL algorithms.
-## Features
+<!-- ## Features
 
 - RL Baselines (mainly based on [StableBaselines]( https://github.com/DLR-RM/stable-baselines3))
 - feature space deploy package(mainly based on [Yolov5](https://github.com/TomMao23/multiyolov5))
@@ -62,4 +62,4 @@ env.close()
 ```
 cd utils
 python feature_extractor_trainer.py
-```
+``` -->
